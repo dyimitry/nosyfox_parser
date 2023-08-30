@@ -1,0 +1,13 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+docker==6.1.3
+greenlet==2.0.2
+idna==3.4
+packaging==23.1
+psycopg2-binary
+pywin32==306
+requests==2.31.0
+SQLAlchemy==2.0.20
+typing_extensions==4.7.1
+urllib3==2.0.4
+websocket-client==1.6.2
